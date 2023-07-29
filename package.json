@@ -1,8 +1,8 @@
 {
-  "name": "phonebook-react-app",
+  "name": "phonebook-typescript-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DaryaBobur.github.io/Phonebook-React-App/",
+  "homepage": "https://DaryaBobur.github.io/Phonebook-TypeScript-App/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
